@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/userupload/11948906/file/original-1f5cd1a18c2d529c6ec10beb30369fb7.mp4)]
+[![MasterHead]([https://cdn.dribbble.com/userupload/11948906/file/original-1f5cd1a18c2d529c6ec10beb30369fb7.mp4](https://gifdb.com/gif/pixel-art-starry-night-background-tdtkgqs3ds5vmtrm.html?embed=true))]
 <h1 align="center">Hi 👋, I'm Miras</h1>
 <h3 align="center">A software developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-gif-23590597"/>
