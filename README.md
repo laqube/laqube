@@ -1,6 +1,6 @@
 ![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
-<h1 align="center">Hi 👋, I'm Miras</h1>
-<h3 align="center">A software developer from Kazakhstan</h3>
+<h1 align="center">Sup 👋</h1>
+<h3 align="center">I'm a software developer from Kazakhstan</h3>
 
 - 🔭 I’m currently working on [my diploma project](https://github.com/laqube/finkomek-landing)
 
