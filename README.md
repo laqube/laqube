@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://tenor.com/view/cat-chill-pixel-gif-9659046017019133973))]
 <h1 align="center">Hi 👋, I'm Miras</h1>
 <h3 align="center">A software developer from Kazakhstan</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-gif-23590597"/>
