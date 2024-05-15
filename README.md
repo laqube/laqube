@@ -1,4 +1,4 @@
-![image](https://github.com/laqube/laqube/assets/91594617/519b6943-b9fa-4d08-b797-2eb306f708f7)![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
+![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
 <h1 align="center">Hi 👋, I'm Miras</h1>
 <h3 align="center">A software developer from Kazakhstan</h3>
 
@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/melseeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="melseeto" height="30" width="40" /></a>
 <a href="https://instagram.com/melseeto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melseeto" height="30" width="40" /></a>
-<a href="https://monkeytype.com/profile/laqube" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="laqube" height="30" width="40" border-radius="5px"/></a>
+<a href="https://monkeytype.com/profile/laqube" target="blank"><img align="center" src="https://cdn-1.webcatalog.io/catalog/monkeytype/monkeytype-icon-filled.png" alt="laqube" height="30" width="30" border-radius="30px"/></a>
                                                                  
 </p>
 
