@@ -1,9 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm Miras</h1>
 <h3 align="center">A software developer from Kazakhstan</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laqube&label=Profile%20views&color=333aff&style=plastic" alt="laqube" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laqube" alt="laqube" /></a> </p>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-gif-23590597"/>
 
 - 🔭 I’m currently working on [my diploma project](https://github.com/laqube/finkomek-landing)
 
