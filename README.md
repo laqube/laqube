@@ -1,13 +1,13 @@
-[![MasterHead](https://gifdb.com/gif/pixel-art-starry-night-background-tdtkgqs3ds5vmtrm.html?embed=true)]
+![MasterHead](https://gifdb.com/images/high/pixel-art-animated-toyoi-yuuta-yl28fl6e0r6ozvvk.gif)
 <h1 align="center">Hi 👋, I'm Miras</h1>
 <h3 align="center">A software developer from Kazakhstan</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/cat-gif-23590597"/>
+<img align="right" alt="Coding" width="400" src="https://media1.tenor.com/m/ETKELYMrCUIAAAAC/cat.gif"/>
 
 - 🔭 I’m currently working on [my diploma project](https://github.com/laqube/finkomek-landing)
 
 - 🌱 I’m currently learning **QA & Testing automation, DevOps**
 
-- 📫 How to reach me **@mirasmels on telegram**
+- 📫 You can always reach me via gmail **amigomikos@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
