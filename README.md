@@ -1,4 +1,4 @@
-![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F89%2Fcb%2F1a%2F89cb1a31c0b35cb5b3a5eaaf4a1b7a39.gif&f=1&nofb=1&ipt=762886d08985745225003fbe273ae19c8c4bc64b615666a9138abc960fbf6860&ipo=images)
+![MasterHead](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F8351153.gif&f=1&nofb=1&ipt=355ffb7cf6b0a68de11d9ba35e387e2437cbf46ea645e4e1115656fa37e01efc&ipo=images)
 <h1 align="center">Sup 👋</h1>
 <h3 align="center">I'm a software developer from Kazakhstan</h3>
 
