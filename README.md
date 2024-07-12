@@ -2,9 +2,9 @@
 <h1 align="center">Sup 👋</h1>
 <h3 align="center">I'm a software developer from Kazakhstan</h3>
 
-- 🔭 I’m currently working on [my diploma project](https://finkomek-landing.vercel.app/)
+- 🔭 I’m currently chilling
 
-- 🌱 I’m currently learning **QA & Testing automation, DevOps**
+- 🌱 I’m currently learning **.NET Development**
 
 - 📫 You can always reach me via gmail **amigomikos@gmail.com**
 
