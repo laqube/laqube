@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently chilling
 
-- 🌱 I’m currently learning **.NET Development**
+- 🌱 Learning **.NET Development**
 
 - 📫 You can always reach me via gmail **amigomikos@gmail.com**
 
